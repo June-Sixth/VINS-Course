@@ -39,7 +39,7 @@ cd bin
 #### 2. VINs-Mono on Euroc Dataset
 ```c++
 cd bin
-./run_euroc /home/dataset/EuRoC/MH-05/mav0/ ../config/
+./run_euroc ~/dataset/EuRoC/MH_01_easy/ ../config/
 ```
 ![vins](doc/vins.gif)
 
